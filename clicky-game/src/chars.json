@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Scout",
+        "image": "https://wiki.teamfortress.com/w/images/thumb/1/13/Icon_scout.jpg/150px-Icon_scout.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Soldier",
+        "image": "https://wiki.teamfortress.com/w/images/thumb/c/c1/Icon_soldier.jpg/150px-Icon_soldier.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Pyro",
+        "image": "https://wiki.teamfortress.com/w/images/thumb/1/13/Icon_pyro.jpg/150px-Icon_pyro.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Demoman",
+        "image": "https://wiki.teamfortress.com/w/images/thumb/c/c0/Icon_demoman.jpg/150px-Icon_demoman.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Heavy",
+        "image": "https://wiki.teamfortress.com/w/images/thumb/8/8e/Icon_heavy.jpg/150px-Icon_heavy.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Engineer",
+        "image": "https://wiki.teamfortress.com/w/images/thumb/b/bc/Icon_engineer.jpg/150px-Icon_engineer.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Medic",
+        "image": "https://wiki.teamfortress.com/w/images/thumb/f/f5/Icon_medic.jpg/150px-Icon_medic.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Sniper",
+        "image": "https://wiki.teamfortress.com/w/images/thumb/a/ac/Icon_sniper.jpg/150px-Icon_sniper.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Spy",
+        "image": "https://wiki.teamfortress.com/w/images/thumb/9/9b/Icon_spy.jpg/150px-Icon_spy.jpg"
+    }
+]
